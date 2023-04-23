@@ -1,0 +1,794 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ctts box should get the ctts box tree 1`] = `
+Object {
+  "flags": 0,
+  "samples": Array [
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 5,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 3,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 6,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 6,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 4,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 3,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2048,
+    },
+    Object {
+      "sample_count": 2,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 2560,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 0,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1024,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 1536,
+    },
+    Object {
+      "sample_count": 1,
+      "sample_offset": 512,
+    },
+    Object {
+      "sample_count": 19,
+      "sample_offset": 1024,
+    },
+  ],
+  "version": 0,
+}
+`;
